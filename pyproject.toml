@@ -1,0 +1,14 @@
+[project]
+name = "fktools"
+version = "0.0.1"
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "matplotlib",
+  "seaborn"
+]
+maintainers = [
+  {name = "Filip", email = "no@thankyou.com"}
+]
+license = {file = "LICENSE"}
